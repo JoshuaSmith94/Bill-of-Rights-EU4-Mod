@@ -5,13 +5,13 @@ Problems aiming to adress & proposed solutions:
 	> Consequences of warfare is insufficiently damaging.
 		- Captured provinces should lose developement. 										
 			./common/on_actions/
-			./	
+			./common/event_modifiers/	
 				+ add_base_tax = -1				
 	> Conquest of Asian nations is too easy by western powers.
 		- Nations should get a penalty for fighting on a different continent
 	> Africa too easy to conquer as a western power.
 		- Attrition penalty for non-African tech groups in non-coastal African provinces
-			./common/static_modifiers ???
+			./common/
 	> Westernisation too easy for non-european powers.
 		- When a nation westernizes neighbouring countries get a penalty to westernization.
 	> Large centeralised nations are too powerful and far too stable.
